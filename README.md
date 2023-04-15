@@ -16,3 +16,4 @@
 14. Pagination
 15. Payment
 16. GraphQL
+17. MVC (Model View Controller)
