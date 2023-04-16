@@ -1,0 +1,19 @@
+{
+  "name": "engine",
+  "version": "1.0.0",
+  "description": "Node Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghjimchris/node-engine.git"
+  },
+  "author": "Jim Chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghjimchris/node-engine/issues"
+  },
+  "homepage": "https://github.com/ghjimchris/node-engine#readme"
+}
